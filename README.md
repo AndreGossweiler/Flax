@@ -10,5 +10,5 @@ The code within 'FreezeCombinedOutput.sas' contains the all analyses performed i
 #SAS
 'Height.sas' contains the mixed model and box-Box for determining Height fixed effects, 'Survival.sas' contains the PHreg procedure for estimating Survival, Hazard Ratios, and Cumulative Hazards, and 'Correlations.sas' produces graphs and tables for the full data set and correlation for each of treatments. Note:  not all treatment are present as some test like -6 and -9 were overwritten. Changing sheet names and .work to match the datatable will include these. 
 
-All data is stored in the accompanying Dryad repository: TBD
+All data is stored in the accompanying USDA Ag Data Commons repository: TBD
 Reference the DataRepoNameChanges.md for info on how to rename files for use with these scripts
