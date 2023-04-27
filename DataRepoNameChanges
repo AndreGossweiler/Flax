@@ -1,17 +1,5 @@
 Data file names were changed to better fit the formatting of the US gov data repository. The datafiles referenced in this repository were renamed as follows:
 
-MasterFreezeData111422.csv -> 
-HeightWide.xls ->
-BioClim_codes.csv ->
-Freeze_Seed_Geo_Collection.csv ->
-GrowthChamberTemperatures.csv ->
-RDA_Accession.csv ->
-trialcoxNO.csv ->
-AllButtonFreezeTemps.xlsx ->
-CorrTable2.xlsx ->
-CumHAZandSurvtable.xlsx ->
+MasterFreezeData111422.csv -> Master14Nov22.csv
 Flax Selection Table and Tray Assignments.xlsx
-FlaxFreezeForAnalysis.xlsx -> 
-FlaxGeoInfo.xlsx ->
-GrowthChamberTemperaturesRawOnly.xlsx ->
-HeightAvg.xlsx -> 
+FlaxFreezeForAnalysis.xlsx -> FlaxFreezeAnalysis
