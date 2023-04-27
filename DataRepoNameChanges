@@ -1,5 +1,5 @@
 Data file names were changed to better fit the formatting of the US gov data repository. The datafiles referenced in this repository were renamed as follows:
 
 MasterFreezeData111422.csv -> Master14Nov22.csv
-Flax Selection Table and Tray Assignments.xlsx
-FlaxFreezeForAnalysis.xlsx -> FlaxFreezeAnalysis
+FlaxFreezeForAnalysis.xlsx -> FlaxFreezeAnalysis.xlsx
+trialcoxNO -> Survival.csv
